@@ -1,0 +1,21 @@
+c:\users\melissa\documents\visual studio 2015\Projects\SeniorProject\SeniorProject\bin\Debug\SeniorProject.exe.config
+c:\users\melissa\documents\visual studio 2015\Projects\SeniorProject\SeniorProject\obj\Debug\SeniorProject.csprojResolveAssemblyReference.cache
+c:\users\melissa\documents\visual studio 2015\Projects\SeniorProject\SeniorProject\obj\Debug\SeniorProject.Form1.resources
+c:\users\melissa\documents\visual studio 2015\Projects\SeniorProject\SeniorProject\obj\Debug\SeniorProject.Properties.Resources.resources
+c:\users\melissa\documents\visual studio 2015\Projects\SeniorProject\SeniorProject\obj\Debug\SeniorProject.csproj.GenerateResource.Cache
+c:\users\melissa\documents\visual studio 2015\Projects\SeniorProject\SeniorProject\bin\Debug\SeniorProject.exe
+c:\users\melissa\documents\visual studio 2015\Projects\SeniorProject\SeniorProject\bin\Debug\SeniorProject.pdb
+c:\users\melissa\documents\visual studio 2015\Projects\SeniorProject\SeniorProject\obj\Debug\SeniorProject.exe
+c:\users\melissa\documents\visual studio 2015\Projects\SeniorProject\SeniorProject\obj\Debug\SeniorProject.pdb
+C:\Users\Melissa\Documents\GitHub\geneviewer\SeniorProject\SeniorProject\bin\Debug\SeniorProject.exe.config
+C:\Users\Melissa\Documents\GitHub\geneviewer\SeniorProject\SeniorProject\obj\Debug\SeniorProject.exe
+C:\Users\Melissa\Documents\GitHub\geneviewer\SeniorProject\SeniorProject\obj\Debug\SeniorProject.pdb
+C:\Users\Melissa\Documents\GitHub\geneviewer\SeniorProject\SeniorProject\bin\Debug\SeniorProject.exe
+C:\Users\Melissa\Documents\GitHub\geneviewer\SeniorProject\SeniorProject\bin\Debug\SeniorProject.pdb
+C:\Users\Melissa\Documents\GitHub\geneviewer\SeniorProject\SeniorProject\obj\Debug\SeniorProject.csprojResolveAssemblyReference.cache
+C:\Users\Melissa\Documents\GitHub\geneviewer\SeniorProject\SeniorProject\obj\Debug\SeniorProject.Properties.Resources.resources
+C:\Users\Melissa\Documents\GitHub\geneviewer\SeniorProject\SeniorProject\obj\Debug\SeniorProject.csproj.GenerateResource.Cache
+C:\Users\Melissa\Documents\GitHub\geneviewer\SeniorProject\SeniorProject\obj\Debug\SeniorProject.main_form.resources
+C:\Users\Melissa\Documents\GitHub\geneviewer\SeniorProject\SeniorProject\obj\Debug\SeniorProject.Help.resources
+C:\Users\Melissa\Documents\GitHub\geneviewer\SeniorProject\SeniorProject\obj\Debug\SeniorProject.Key.resources
+C:\Users\Melissa\Documents\GitHub\geneviewer\SeniorProject\SeniorProject\obj\Debug\SeniorProject.Abstract.resources
